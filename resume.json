@@ -1,0 +1,219 @@
+{
+    "basics": {
+        "name": "Sébastien NOIROT",
+        "label": "Full stack developer",
+        "picture": "images/identity.jpg",
+        "email": "noirot.sebastien@gmail.com",
+        "phones": [
+            {"phone":"(0033) 6 52 52 39 38", "name" : "FR"},
+            {"phone":"(0047) 41224526", "name" : "NO"}
+
+        ],
+        "summary": "I am truly passionate about the development of web applications in the broad sense of the term: from choice of technology stack, prototyping and development to DevOps, testing, continuous integration and delivery. I want to keep on expanding my skill-set through new challenges, preferably as part of a team within an ambitious company with great vision and culture.",
+        "location": {
+            "address": "Sommerlystvegen 5",
+            "city": "7019 Trondheim, Norway"
+        },
+        "profiles": [
+            {
+                "network": "linkedin",
+                "username": "sebnoirot",
+                "url": "https://www.linkedin.com/in/sebnoirot"
+            },
+            {
+                "network":"blog",
+                "username": "iwtyo.today",
+                "url":"https://iwtyo.today"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Sportradar (Norway)",
+            "location": {
+                "city": "Trondheim",
+                "region": "Norway"
+            },
+            "position": "Senior developer / Security champion",
+            "website": "https://www.sportradar.com/",
+            "startDate": "2018-01-15",
+            "summary": "Full stack developer working on competition sports. (Quarkus, Spring, Neo4J, React / VueJS, Kafka, Kubernetes)</br>" +
+                "Security champion<br /> Test, TDD, AT advocate<br /> Automate my work</br>"
+        },
+        {
+            "company": "OpenAirlines (France)",
+            "location": {
+                "city": "Toulouse",
+                "region": "France"
+            },
+            "position": "Senior developer",
+            "website": "http://openairlines.com/",
+            "startDate": "2016-03-28",
+            "endDate": "2018-01-12",
+            "summary": "Member of the R&D team (10 people) developing OpenAirline's core product, SkyBreathe Fuel Efficiency, a web application to optimize fuel consumption for airlines such as Transavia and Flydubai. Scrum master and release manager."
+        },
+        {
+            "company": "Ausy",
+            "location": {
+                "city": "Toulouse",
+                "region": "France"
+            },
+            "position": "Software Engineer",
+            "website": "http://www.ausy.fr/en",
+            "startDate": "2015-11-05",
+            "endDate": "2016-02-26",
+            "summary": "Member of the R&D team (12 people) in charge of the further development of a web application allowing the remote management of equipments on Orange’s core network. Auditing and implementation of quality and automation processes: unit testing, integration testing, knowledge capitalization."
+        },
+        {
+            "company": "Capgemini",
+            "location": {
+                "city": "Toulouse",
+                "region": "France"
+            },
+            "position": "Team Leader",
+            "website": "https://www.capgemini.com",
+            "startDate": "2012-08-01",
+            "endDate": "2015-10-02",
+            "summary": "Technical lead of the R&D team (5 people) responsible for the maintenance and development of a fleet of web applications custom built for EDF (the world's largest producer of electricity). These applications were designed for handling all customer transactions within EDF’s french subsidiary. Prior to being promoted to team leader, I worked within the same team as a Java Developer for 2 years."
+        }
+    ],
+    "education": [
+        {
+            "institution": "INSA",
+            "location": {
+                "city": "Toulouse",
+                "region": "France"
+            },
+            "website": {
+                "label": "www.insa-toulouse.fr",
+                "url": "http://www.insa-toulouse.fr/en/formation/ingenieur/nouvelle-page/sciences-technologies-health-STS/engineer-background-FI/computer-and-networks-engineering-program-program1-frsiretnullpri5ir000-en.html"
+            },
+            "summary": "Spread over eight years to accommodate my professional career in volleyball",
+            "area": "Computer Science",
+            "studyType": "MSc.",
+            "startDate": "2004-09-01",
+            "endDate": "2012-06-30"
+        },
+        {
+            "institution": "Erasmus exchange, NTNU",
+            "location": {
+                "city": "Trondheim",
+                "region": "Norway"
+            },
+            "website": {
+                "label": "www.ntnu.edu",
+                "url": "https://www.ntnu.edu/"
+            },
+            "area": "Computer Science",
+            "studyType": "MSc.",
+            "startDate": "2009-08-15",
+            "endDate": "2010-06-15"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Web Development",
+            "keywords": [
+                "VueJS",
+                "React",
+                "javascript"
+            ]
+        },
+        {
+            "name": "CI/CD",
+            "keywords": [
+                "Jenkins",
+                "Docker",
+                "Kubernetes",
+                "Gitlab CI"
+            ]
+        },
+        {
+            "name": "Testing",
+            "keywords": [
+                "TDD",
+                "Acceptance testing (cucumber)",
+                "Performance testing (k6)"
+            ]
+        },
+        {
+            "name": "Database",
+            "keywords": [
+                "MySQL",
+                "MongoDB",
+                "Neo4J"
+            ]
+        },
+        {
+            "name": "Messaging",
+            "keywords": [
+                "RabbitMQ",
+                "Kafka",
+                "Grpc"
+            ]
+        },
+        {
+            "name": "Cloud",
+            "keywords": [
+                "AWS",
+                "OVH",
+                "Digitalocean"
+            ]
+        },
+        {
+            "name": "Personal",
+            "keywords": [
+                "Team Spirit",
+                "Self driven"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "French",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "English",
+            "fluency": "Fluent"
+        },
+        {
+            "language": "Norwegian",
+            "fluency": "Beginner"
+        }
+    ],
+    "projects": [
+        {
+            "name" : "Glad i dag",
+            "startDate" : "2019-12-01",
+            "url": "https://gladidag.com/",
+            "keywords": ["vuejs", "firebase"],
+            "summary": "Application to monitor what make you happy and unhappy, put it on perspective, improve your life."
+        },
+        {
+            "name" : "Klipperiet web site",
+            "startDate" : "2019-10-01",
+            "endDate" : "2019-11-01",
+            "url": "http://klipperiet.com/",
+            "keywords": ["vuejs", "cms"],
+            "summary": "Creation of a web page for Klipperiet saloon with a CMS to update data."
+        },
+        {
+            "name": "Hvor stort det er",
+            "startDate" : "2019-09-01",
+            "endDate" : "2019-09-15",
+            "url": "https://hvorstortdeter.com/",
+            "keywords": ["vuejs", "nodejs", "google api"],
+            "summary": "Search how big is a research per country."
+        },
+        {
+            "name": "Forecast",
+            "startDate" : "2019-02-01",
+            "endDate" : "2019-03-01",
+            "url": "https://forecast.seb-noirot.fr/",
+            "keywords": ["vuejs", "Spring", "YR.no"],
+            "summary": "A light forecast application"
+        }
+
+    ]
+}
