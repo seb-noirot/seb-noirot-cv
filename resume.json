@@ -37,8 +37,7 @@
             "position": "Senior developer / Security champion",
             "website": "https://www.sportradar.com/",
             "startDate": "2018-01-15",
-            "summary": "Full stack developer working on competition sports. (Quarkus, Spring, Neo4J, React / VueJS, Kafka, Kubernetes)</br>" +
-                "Security champion<br /> Test, TDD, AT advocate<br /> Automate my work</br>"
+            "summary": "Full stack developer working on competition sports. (Quarkus, Spring, Neo4J, React / VueJS, Kafka, Kubernetes)</br>Security champion<br /> Test, TDD, AT advocate<br /> Automate my work</br>"
         },
         {
             "company": "OpenAirlines (France)",
