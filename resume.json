@@ -111,6 +111,10 @@
     ],
     "skills": [
         {
+            "name": "Backend developer",
+            "keywords": ["Java", "Spring", "Quarkus"]
+        },
+        {
             "name": "Web Development",
             "keywords": [
                 "VueJS",
@@ -121,10 +125,8 @@
         {
             "name": "CI/CD",
             "keywords": [
-                "Jenkins",
-                "Docker",
-                "Kubernetes",
-                "Gitlab CI"
+                "Gitlab CI",
+                "Mend"
             ]
         },
         {
@@ -155,8 +157,8 @@
             "name": "Cloud",
             "keywords": [
                 "AWS",
-                "OVH",
-                "Digitalocean"
+                "Docker",
+                "Kubernetes",
             ]
         },
         {
@@ -180,39 +182,5 @@
             "language": "Norwegian",
             "fluency": "Beginner"
         }
-    ],
-    "projects": [
-        {
-            "name" : "Glad i dag",
-            "startDate" : "2019-12-01",
-            "url": "https://gladidag.com/",
-            "keywords": ["vuejs", "firebase"],
-            "summary": "Application to monitor what make you happy and unhappy, put it on perspective, improve your life."
-        },
-        {
-            "name" : "Klipperiet web site",
-            "startDate" : "2019-10-01",
-            "endDate" : "2019-11-01",
-            "url": "http://klipperiet.com/",
-            "keywords": ["vuejs", "cms"],
-            "summary": "Creation of a web page for Klipperiet saloon with a CMS to update data."
-        },
-        {
-            "name": "Hvor stort det er",
-            "startDate" : "2019-09-01",
-            "endDate" : "2019-09-15",
-            "url": "https://hvorstortdeter.com/",
-            "keywords": ["vuejs", "nodejs", "google api"],
-            "summary": "Search how big is a research per country."
-        },
-        {
-            "name": "Forecast",
-            "startDate" : "2019-02-01",
-            "endDate" : "2019-03-01",
-            "url": "https://forecast.seb-noirot.fr/",
-            "keywords": ["vuejs", "Spring", "YR.no"],
-            "summary": "A light forecast application"
-        }
-
     ]
 }
